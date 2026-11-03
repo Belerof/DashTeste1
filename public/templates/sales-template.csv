@@ -1,0 +1,3 @@
+Invoice number,Invoice date,Customer,SKU,Quantity,Unit price,Currency,Sales representative,Status
+INV-2026-900001,2026-10-15,Farmácias Aurora,VB-SH-250,120,9.90,EUR,Rita Matos,Invoiced
+INV-2026-900002,2026-10-16,Albion Pharmacy Group,SS-SR-075,48,21.30,GBP,Oliver Brooks,Pending
